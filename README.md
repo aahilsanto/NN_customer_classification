@@ -92,12 +92,12 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### Classification Report
 
-<img width="1211" height="648" alt="image" src="https://github.com/user-attachments/assets/b07597b7-c923-4b51-9c2e-f1a0ff4a57f2" />
+<img width="816" height="524" alt="image" src="https://github.com/user-attachments/assets/74311ad6-56d2-4c0d-9ebb-4a24a98ca03a" />
 
 
 ### New Sample Data Prediction
 
-<img width="1608" height="173" alt="image" src="https://github.com/user-attachments/assets/83d7f5da-85ac-499c-8c69-27702b558570" />
+<img width="1203" height="171" alt="image" src="https://github.com/user-attachments/assets/ff1f0227-25dc-49a0-b8b3-9e43b1088593" />
 
 
 ## RESULT
